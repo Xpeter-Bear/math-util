@@ -4,4 +4,8 @@
 ### You will find in this repo:
 * Math Utlity Java source code 
 * .gitignore file to tell Git tool the things will be uploaded 
-* README.md
+* README.md - this file itseft to show the home-page of the repo
+
+
+### connect me via 
+[Facebook](https://facebook.com/)
