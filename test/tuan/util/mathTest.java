@@ -26,7 +26,6 @@ public class mathTest {
         Assert.assertEquals(720, MathUtil.getFactorial(6));
         Assert.assertEquals(24, MathUtil.getFactorial(4));
         Assert.assertEquals(1, MathUtil.getFactorial(0));
-        Assert.assertEquals(123, MathUtil.getFactorial(5));
     }
     // mặc định code xanh mới ra file chấm war hoặc jar  nếu code màu đỏ thì phải disable
     // cái nut clean and buil
