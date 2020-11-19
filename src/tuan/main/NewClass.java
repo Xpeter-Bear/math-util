@@ -21,7 +21,6 @@ public class NewClass {
             //                  e:1, a:1 -> okie
             
             //e: ném về ngoại lệ IllegalArgumentException
-            System.out.println("-5!: " + MathUtil.getFactorial(-5));
             //                  e:1, a:1 -> okie
             System.out.println("CI for today");
     }
