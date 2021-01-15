@@ -17,12 +17,16 @@ public class NewClass {
             //2. test hàm bằng mắt
             System.out.println("5!: " + MathUtil.getFactorial(5));
             // t hi vọng m ra 120 khi t gọi m
-            System.out.println("0!: " + MathUtil.getFactorial(0));
+            System.out.println("0!: " + MathUtil.getFactorial(7));
             //                  e:1, a:1 -> okie
-            
+            long actual = MathUtil.getFactorial(5);
+            long expected = 120;
+            System.out.println("Expected 5! " + expected);
+            System.out.println("actual " + actual);
             //e: ném về ngoại lệ IllegalArgumentException
             //                  e:1, a:1 -> okie
             System.out.println("CI for today");
+            
     }
 }
 //code viet ra thi DEV pahi test truoc da , co vai hinh thuc test code khac nhau

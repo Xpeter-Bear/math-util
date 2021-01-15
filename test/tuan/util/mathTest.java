@@ -27,6 +27,9 @@ public class mathTest {
         Assert.assertEquals(24, MathUtil.getFactorial(4));
         Assert.assertEquals(1, MathUtil.getFactorial(0));
     }
+    // test thành công hoặc thất bại
+    // tách hàm thành các tình huống khác nhau 
+    // tên hàm test đặt tên riêng
     // mặc định code xanh mới ra file chấm war hoặc jar  nếu code màu đỏ thì phải disable
     // cái nut clean and buil
 
