@@ -25,7 +25,6 @@ public class mathTest {
         Assert.assertEquals(120, MathUtil.getFactorial(5));
         Assert.assertEquals(720, MathUtil.getFactorial(6));
         Assert.assertEquals(24, MathUtil.getFactorial(4));
-        Assert.assertEquals(1, MathUtil.getFactorial(0));
     }
     // test thành công hoặc thất bại
     // tách hàm thành các tình huống khác nhau 

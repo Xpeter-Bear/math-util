@@ -19,7 +19,7 @@ public class NewClass {
             // t hi vọng m ra 120 khi t gọi m
             System.out.println("0!: " + MathUtil.getFactorial(7));
             //                  e:1, a:1 -> okie
-            long actual = MathUtil.getFactorial(5);
+            long actual = MathUtil.getFactorial(7);
             long expected = 120;
             System.out.println("Expected 5! " + expected);
             System.out.println("actual " + actual);
